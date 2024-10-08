@@ -1,0 +1,1 @@
+- Show location of command: `type -a "command name"`

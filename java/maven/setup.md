@@ -1,0 +1,3 @@
+- Download and install maven https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+- Extract archive, put in program files or somewhere sensible. Add bin folder to environment variables
+- 
